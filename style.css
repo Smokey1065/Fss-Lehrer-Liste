@@ -29,6 +29,8 @@ body {
     color: white;
     font-size: x-large;
     padding-left: 505;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 
