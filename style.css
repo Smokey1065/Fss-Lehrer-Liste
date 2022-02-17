@@ -22,15 +22,15 @@ body {
         lightgreen
     );
     color: white;
-
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .tbody {
     color: white;
     font-size: x-large;
     padding-left: 505;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+
 }
 
 
